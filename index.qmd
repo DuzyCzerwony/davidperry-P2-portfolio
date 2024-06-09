@@ -1,15 +1,12 @@
 ---
-title: "My website and data analysis portfolio"
+title: "Welcome to my website and to my data analysis portfolio!"
 ---
 
-# Hello
+# Hello! I am David, and this is my first-ever webpage! Pretty cool!!
 
-### And hello again
+### UTSA MSDA Practicum II - Summer 2024
 
-Welcome to **my website** and _data analysis portfolio._ 
+-   Please use the `Menu Bar` above to look around.
+-   Have fun!
 
-
-* Please use the `Menu Bar` above to look around.
-* Have fun!
-
-**Feel free to change this text any way you want 😁!**
+**I will continue to make changes as I gain more competency through practice 😁!**

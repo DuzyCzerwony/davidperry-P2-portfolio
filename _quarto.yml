@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "YOURNAME Data Analysis Portfolio"
+  title: "David Perry's Data Analysis Portfolio"
   navbar:
     left:
       - text: "About Me"
@@ -20,11 +20,11 @@ website:
             file: tidytuesday-exercise/tidytuesday-exercise.qmd
     right:
       - icon: github 
-        href: URL-TO-THIS-REPOSITORY-HERE        
+        href: https://github.com/DuzyCzerwony/davidperry-P2-portfolio        
 
 format:
   html:
-    theme: cosmo
+    theme: spacelab
     highlight: zenburn
     css: styles.css
     toc: FALSE

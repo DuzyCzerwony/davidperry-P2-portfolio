@@ -1,7 +1,23 @@
 ---
-title: "About me"
+title: "A little about me"
 ---
 
-Add some text and a figure describing myself.
+I am a person committed to life long growth and development. I have done some interesting things in my life and I am so glad for it! Upon receipt of this MSDA degree, it will be my fourth academic credential. In the 1990s, I earned a BS from Texas A&M, an MBA from UTSA, and a Master of International Management from the Thunderbird School of Global Management in Arizona. I have lived and worked in Poland as a Peace Corps volunteer, and also worked in Los Angeles for 20 years. I've been working in commercial banking for 25 years. My primary role is putting together large and complex credit facilities for companies as well as real estate transactions.
 
-For details, see the exercise instructions. 
+I am close to the end of the MSDA program and have thus taken courses using R, Python, SAS, and other popular applications. In my current job, I do not use any of this new knowledge, but I see ways in which it can be very useful. It remains to be seen whether I will use these skills in my current role. Data analytics is certainly used in other dimensions of banking, so perhaps I will make a shift from lending to something else.
+
+This is my wife, Erwina! She and I met in Los Angeles, and she agreed to move to San Antonio! It was a big change for her, but she has adapted well. She had a 24-year career with the City of Beverly Hills.
+
+![](IMG_4749.JPG){alt="Picture Description"}
+
+# Hobbies
+
+One of my favorite hobbies is riding dirt bikes in the high desert of California! It's a blast and I miss it.
+
+![](IMG_1087.JPG){alt="Picture Description"}
+
+# Adventures
+
+An interesting fact about me is that I climbed to the top of Mount Kilimanjaro in 2000. The mountain is in Tanzania and is 19,340 feet above sea level. It is the highest point in Africa. I am wearing the red jacket, and that is a glacier in the background. Sadly, it is long gone due to rising global temperatures.
+
+![](MVC-822F.JPG)
